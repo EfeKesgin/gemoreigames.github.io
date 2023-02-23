@@ -1,0 +1,217 @@
+*{
+    font-family: arial;
+}
+body{
+    background-image: url(images/black_lozenge.png);
+    background-repeat: repeat;
+}
+#container{
+    width:  100%;
+    height: 100%;
+    margin: auto;
+}
+header{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    margin-bottom: 3px;
+}
+#indirim{
+    background-color: #ff4d293d;
+    width: 70%;
+    height: 8%;
+    margin: auto;
+}
+section{
+    width: 70%;
+    height: 75%;
+    margin: auto;
+}
+marquee {
+    font-size: 1.528vw;
+    color: #8ebf42;
+}
+#menu ul{
+        font-size: 1.25vw;
+        position: fixed;
+        list-style-type: none;
+        padding: 0vh;
+        margin: 0vh;
+}
+#menu ul li a{
+    background-color:#FF4C29;
+    display: block;
+    color: #082032;
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.7vw;
+    width: 14.417vw;
+}
+#kategori{
+    color: #FF4C29;
+    font-size: 1.50vw;
+}
+#menu ul li a:hover{
+    background-color: #082032;
+    color: #FF4C29;
+    display: block;
+    transition-property: background-color, color;
+    transition-duration: 0.40s;
+    transition-timing-function: ease;
+    padding-top: 0.64814814814815vh;
+    width: 15vw;
+    height: 3vw;
+    font-size: 1.9vw;
+}
+h2{
+    margin: 0vw;
+    margin-bottom: 0.521vw;
+}
+.wdiv{
+    background-color: #FF4C29;
+    width: 47%;
+    height: 17vw;
+    margin-top: 1.563vw;
+    margin-left: 1.563vw;
+    float: left;
+    padding: 0px;
+}
+h1{
+    font-size: 4vw;
+    color: #FF4C29;
+    text-align: center;
+    margin-bottom:0vh; 
+    margin-top: 0vh;
+}
+.waside{
+    background-color: #FF4C29;
+    width: 47%;
+    height: 17vw;
+    margin-top: 1.563vw;
+    margin-left: 1.563vw;
+    float: left;
+    margin-bottom: 1vh;
+    padding: 0px;
+}
+#banner{
+    width: 100%;
+    height: 20%;
+}
+#banner2{
+    width: 100%;
+    height: 20%;
+    margin-top: 0vh;
+}
+.button{
+    background-color: #FF4C29;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+    height: 17vw;
+}
+.button:hover{
+    transition-property: width, height;
+    transition-duration: 0.30s;
+    transition-timing-function: ease;
+    width: 102%;
+    height: 102%;
+}
+p{
+    font-size: 12pt;
+    background-color:  #FF4C29;
+    margin-bottom:20vh; 
+    font-weight: bold;
+    float: left;
+    margin-top: -10vh;
+}
+h3{
+    font-size: 20pt;
+    color: #FF4C29;
+    text-align: center;
+    margin-bottom:0vh; 
+    float: left;
+    margin-left: 16vw;
+    margin-top: -15vh;
+}
+#button2 ul{
+    list-style-type: none;
+}
+#button2 ul li a{
+    display: block;
+    background-color: #FF4C29;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    width: 12%;
+    height: 6vh;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 16pt;
+    color: #082032;
+    margin-top: 10vh;
+    margin-left: 20vw;
+    line-height: 6vh;
+}
+#button2 ul li a:hover{
+    transition-property: width, height;
+    transition-duration: 0.30s;
+    transition-timing-function: ease;
+    background-color: #082032;
+    color: #FF4C29;
+    display: block;
+    transition-property: background-color, color;
+}
+img{
+    float: left;
+}
+.slider{
+    float: left;
+    height: 50%;
+    width: 60%;
+    margin-left: 29vw;
+    margin-top: -20vh;
+}
+#jssor_2_container{
+    float: left;
+    margin-right: 10vw;
+    height: 50%;
+    width: 60%;
+}
+.sc{
+    float: left;
+}
+.bio{
+    width: 50%;
+    height: 40%;
+    margin-left: 47vw;
+}
+h4{
+    font-size: 20pt;
+    color: #FF4C29;
+    text-align: center;
+}
+h5{
+    font-size: 16pt;
+    text-align: center;
+    color: #FF4C29;
+}
+h6{
+    font-size: 12pt;
+    background-color:  #FF4C29;
+    font-weight: bold;
+    text-align: center;
+}
+.code{
+    background-color: #FF4C29;
+    width: 26vw;
+    height: auto;
+    margin: auto;
+}
+.how{
+    font-size: 16pt;
+}
